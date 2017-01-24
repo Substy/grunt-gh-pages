@@ -1,4 +1,6 @@
 # grunt-gh-pages
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/grunt-gh-pages.svg)](https://greenkeeper.io/)
 **Publish to GitHub Pages with Grunt**
 
 Use [Grunt](http://gruntjs.com/) to push to your `gh-pages` branch hosted on GitHub or any other branch anywhere else.

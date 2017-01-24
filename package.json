@@ -21,22 +21,22 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "async": "2.0.1",
-    "fs-extra": "^0.30.0",
-    "graceful-fs": "4.1.5",
-    "q": "0.9.3",
+    "async": "2.1.4",
+    "fs-extra": "^2.0.0",
+    "graceful-fs": "4.1.11",
+    "q": "1.4.1",
     "q-io": "2.0.2",
     "url-safe": "^2.0.0"
   },
   "devDependencies": {
-    "chai": "1.8.1",
+    "chai": "3.5.0",
     "eslint": "^3.2.2",
-    "eslint-config-tschaub": "^5.0.0",
-    "grunt": "0.4.2",
-    "grunt-cafe-mocha": "0.1.10",
-    "grunt-cli": "0.1.11",
-    "grunt-contrib-watch": "0.5.3",
-    "tmp": "0.0.20"
+    "eslint-config-tschaub": "^6.0.0",
+    "grunt": "1.0.1",
+    "grunt-cafe-mocha": "0.1.13",
+    "grunt-cli": "1.2.0",
+    "grunt-contrib-watch": "1.0.0",
+    "tmp": "0.0.31"
   },
   "peerDependencies": {
     "grunt": ">=0.4.0"
